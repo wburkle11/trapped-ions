@@ -4,7 +4,7 @@ One of the most promising near term applications of quantum computing in the NIS
 
 ### Toeplitz Decomposition
 
-For quantum chemical systems, the Hamiltonian $H$ is the sum of the potential and kinetic energies: $H = V + K$. The potential energy has a diagonal matrix form which can be decomposed into a sum of appropriately tensored and weighted $Z$ and $I$ operators. Since $V$ is already diagonal, we will focus our attention on the kinetic energy term $K$ which has a symmetric Toeplitz matrix form
+For quantum chemical systems, the Hamiltonian $H$ is the sum of the potential and kinetic energies: $H = V + K$. The potential energy has a diagonal matrix form which can be decomposed into a sum of appropriately tensored and weighted $Z$ and $I$ operators. Since $V$ is already diagonal, we focus our attention on the kinetic energy term $K$ which has a symmetric Toeplitz matrix form
 
 ![snip](https://github.com/wburkle11/trapped-ions/assets/92954143/48c6dd1a-157c-42cc-b854-52935191a234)
 
