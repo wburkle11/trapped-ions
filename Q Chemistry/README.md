@@ -1,4 +1,4 @@
-## Q Chemistry 
+## **Q Chemistry**
 
 One of the most promising near term applications of quantum computing in the NISQ era is the simulation of quantum chemical dynamics in increasing complex chemical systems. This directory is for storing code related to quantum chemistry projects and experiments
 
