@@ -75,7 +75,7 @@ Using these outputs, by redefining the input parameters with the updated "Optima
 
 - Make sure to monitor optimal tau! All resonator functions assume the typical case where tau is roughly = 2*d_0 + 0.001: THERE ARE SOME CIRCUMSTANCES WHERE THIS IS NOT TRUE. Thus, you will need to update the definiton of tau throughout all of the functions
 - The capacitance of the wire connections between resonator and trap takes on a defined value in my code of: C_w = 0.0001e-12 Farads : Depending on your expieremental apparatus, this capacitance can take on quite a large range of values, and should be updated accordingly.
-- Plots of Q Factor "break down" or begin to diverge for trap resitances of < 0.5 Ohms, in comparison with plots made in [[Siverns 2012](https://arxiv.org/abs/1106.5013)].
+- Plots of Q Factor begin to diverge for trap resitances of < 0.5 Ohms, in comparison with plots made in [[Siverns 2012](https://arxiv.org/abs/1106.5013)].
 
 [1] [Siverns, 2012: On the application of radio frequency voltages to ion traps via helical resonators](https://arxiv.org/abs/1106.5013) 
 
