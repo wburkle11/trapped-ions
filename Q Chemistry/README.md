@@ -15,4 +15,3 @@ Where we decompose this Toeplitz matrix $K$ into a sum of generalized Pauli oper
 ![decomp](https://github.com/wburkle11/trapped-ions/assets/92954143/e175e2b2-1124-49f9-a20c-dab0a80d2762)
 
 
-### Helical Resonator Design
