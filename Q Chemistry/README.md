@@ -8,7 +8,7 @@ For quantum chemical systems, the Hamiltonian $H$ is the sum of the potential an
 
 ![snip](https://github.com/wburkle11/trapped-ions/assets/92954143/48c6dd1a-157c-42cc-b854-52935191a234)
 
-Where we decompose this Toeplitz matrix $K$ into a sum of generalized Pauli operators. This is a hardware inspired (and much more natural) decomposition to choose instead of Clifford gates because quantum platforms such as trapped-ions and superconducting circuits---at the hardware level---drive quantum gates with generalized Pauli operator interactions, not Clifford gates.
+This code decomposes this Toeplitz matrix $K$ into a sum of generalized Pauli operators. This is a hardware inspired (and much more natural) decomposition to choose instead of Clifford gates because quantum platforms such as trapped-ions and superconducting circuits---at the hardware level---drive quantum gates with generalized Pauli operator interactions, not Clifford gates.
 
 ![decomp](https://github.com/wburkle11/trapped-ions/assets/92954143/e175e2b2-1124-49f9-a20c-dab0a80d2762)
 
