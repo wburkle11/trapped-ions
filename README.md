@@ -10,3 +10,4 @@ Code for numerical calculations and simulations for trapped ion experiments. Exp
 
 * Q Chemistry
 * Helical Resonator Design
+* Laser Cooling
