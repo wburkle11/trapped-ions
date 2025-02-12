@@ -2,7 +2,9 @@
 
 This repository is for storing code that models laser cooling techniques developed in RichermeLab. 
 
-## EIT Cooling (MAIN SCRIPT - EIT_Functions.py)
+## EIT Cooling 
+
+**MAIN SCRIPT - EIT_Functions.py**
 
 The performance of quantum operations with atoms and ions can be improved by ground state cooling of the atoms (or ions) vibrational degrees of freedom. Moreover, quantum simulations with both vibrational and fermionic degrees
 of freedom naturally demand ground state cooling of vibrational modes. As the size of quantum systems scaling up, it is all the more neccesarry to ensure that we have an effecient way of ground state cooling large numbers
