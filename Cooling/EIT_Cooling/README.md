@@ -68,11 +68,17 @@ The relationship between the light shift and these two main experimental handles
 **Trap Freq = 3.00 MHz ; Drive Power = 18MHz; Probe Power = 6 MHz; Zeeman = 5 MHz;**
 
 <p align="center">
-  <img src="./images/cooling_bandwidth.png" alt="Fano-Like Profile" width="800" height="350"/>
+  <img src="./images/power1.png" alt="Fano-Like Profile" width="800" height="350"/>
 </p>
 
+**Trap Freq = 3.00 MHz ; Overlapped Detuning = 45MHz ; Probe Power = 6 MHz; Zeeman = 5MHz;**
 
+<p align="center">
+  <img src="./images/power2.png" alt="Fano-Like Profile" width="800" height="350"/>
+</p>
 
+The power of the driving beam has the more substantial effect on the light shift. 
 
+## References
 
 
