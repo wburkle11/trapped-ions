@@ -25,7 +25,7 @@ This four level system altogether form two Λ-scheme's, each producing Fano-like
 To create the above absorption spectrum with this code, you need to define some input parameters:
 
 <p align="center">
-  <img src="./images/input_param.PNG" alt="Fano-Like Profile" width="600" height="250"/>
+  <img src="./images/input_param.PNG" alt="Fano-Like Profile" width="600" height="300"/>
 </p>
 
 The boxes highlighted in red are the parameters that will need to change based on your experimental apparatus!  
@@ -47,13 +47,19 @@ EIT cooling will take place after some period of Doppler cooling. After Doppler 
   <img src="./images/ratio.PNG" alt="Fano-Like Profile" width="300" height="100"/>
 </p>
 
-With this, we can calculate the expected minimum value of NBAR: 
+With this, we can calculate the expected minimum value of NBAR, as well as an overall cooling bandwidth: 
 
 <p align="center">
-  <img src="./images/zoomed_fano.png" alt="Fano-Like Profile" width="800" height="350"/>
+  <img src="./images/min_nbar.png" alt="Fano-Like Profile" width="800" height="350"/>
 </p>
 
+<p align="center">
+  <img src="./images/cooling_bandwidth.png" alt="Fano-Like Profile" width="800" height="350"/>
+</p>
 
+## Tailoring AC Lightshift
+
+As mentioned above, the main goal of EIT is to tailor the induced light shift for a given trap freq. The main handles that effect this light shift, is 1.) the overall detuning of the EIT beams from the excited state, and 2.) The power used for the driving beam. 
 
 
 
