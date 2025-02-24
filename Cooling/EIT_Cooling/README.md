@@ -61,5 +61,18 @@ With this, we can calculate the expected minimum value of NBAR, as well as an ov
 
 As mentioned above, the main goal of EIT is to tailor the induced light shift for a given trap freq. The main handles that effect this light shift, is 1.) the overall detuning of the EIT beams from the excited state, and 2.) The power used for the driving beam. 
 
+**POWER SCRIPT - Rabi_RawPower_Relationship.nb** - *This mathematica code computes the relationship between Rabi Freq and raw Laser Power*
+
+The relationship between the light shift and these two main experimental handles can be shown in the plots below: 
+
+**Trap Freq = 3.00 MHz ; Drive Power = 18MHz; Probe Power = 6 MHz; Zeeman = 5 MHz;**
+
+<p align="center">
+  <img src="./images/cooling_bandwidth.png" alt="Fano-Like Profile" width="800" height="350"/>
+</p>
+
+
+
+
 
 
