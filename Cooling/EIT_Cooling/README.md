@@ -20,6 +20,12 @@ This four level system altogether form two Λ-scheme's, each producing Fano-like
   <img src="./images/double_fano.png" alt="Fano-Like Profile" width="800" height="350"/>
 </p>
 
+To create the above absorption spectrum with this code, you need to define some input parameters;
+
+<p align="center">
+  <img src="./images/double_fano.png" alt="Fano-Like Profile" width="800" height="350"/>
+</p>
+
 Now, we probe (or complete) one of these Λ-scheme's by choice of probe detuning (See Legend in above Plot). In doing so we can zoom into one of these Fano-like absorption peaks (in this case, we have chosen the left peak in the plot above). 
 
 <p align="center">
@@ -27,6 +33,8 @@ Now, we probe (or complete) one of these Λ-scheme's by choice of probe detuning
 </p>
 
 The black, dashed line above indicated the position of the CARRIER transistion, which due to the quantum interference of the applied probe/driving beams, results in a null point along the absorption spectrum. The CARRIER transition falls exactly at the detuning we used to create our two-photon resonance condition (i.e Λ-scheme). Red and Blue lines indicate positions of motional sidebands given a trap secular frequency. The Green line, indicates the position of the light shift from the applied dressing beam. The whole goal in implementing EIT cooling is to tailor this light shift for a given trap freq, for which red sideband transitions (RSB) greatly dominates over the blue sideband transitions (BSB). Moreover, the width of the fano-like absorption peak can be tailored such that all normal modes in the direction of the defined trap freq fit within this "cooling" bandwidth. 
+
+
 
 
 
