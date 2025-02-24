@@ -9,4 +9,4 @@ of modes.
 
 EIT cooling provides an alternative to Resolved Sideband Cooling. It is capable of cooling a very wide range of vibrational modes simultaneously. EIT cooling utilizes quantum interference is a three level Λ-scheme. This 
 is typically refered to as "Single" EIT cooling in the literature. For 171Yb+, the excited state |e⟩ = |F = 0, m=0⟩ in the P₁/₂ manifold is coupled to three states, |-⟩ = |F = 1, m=-1⟩, |+⟩ = |F = 1, m=1⟩, and |0⟩ = |F = 1, m=0⟩
-in the S₁/₂ manifold. This four level system altogether form two Λ-scheme's, each producing Fano-like profiles in the atomic absorbtion spectrum.![image](https://github.com/user-attachments/assets/e609e28e-ad22-40a9-bb0c-28de50b72ef6)
+in the S₁/₂ manifold. This four level system altogether form two Λ-scheme's, each producing Fano-like profiles in the atomic absorbtion spectrum.
