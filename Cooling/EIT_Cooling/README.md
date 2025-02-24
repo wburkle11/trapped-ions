@@ -3,7 +3,7 @@
 
 **MAIN SCRIPT - EIT_Functions.py**
 
-The performance of quantum operations with atoms and ions can be improved by ground state cooling of the atoms (or ions) vibrational degrees of freedom. Moreover, quantum simulations with both vibrational and fermionic degrees
+The performance of quantum operations with trapped ions can be improved by ground state cooling of the atoms vibrational degrees of freedom. Moreover, quantum simulations with both vibrational and fermionic degrees
 of freedom naturally demand ground state cooling of vibrational modes. As the size of quantum systems scaling up, it is all the more neccesarry to ensure that we have an effecient way of ground state cooling large numbers
 of modes. 
 
