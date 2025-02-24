@@ -10,7 +10,7 @@ EIT cooling provides an alternative to Resolved Sideband Cooling (RSB). It is ca
 is typically refered to as "Single" EIT cooling in the literature. For 171Yb+, the excited state |e⟩ = |F = 0, m=0⟩ in the P₁/₂ manifold is coupled to the three states, |-⟩ = |F = 1, m=-1⟩, |+⟩ = |F = 1, m=1⟩, and |0⟩ = |F = 1, m=0⟩
 in the S₁/₂ manifold via a 369nm laser. 
 
-![Energy Level Diagram](trapped-ions/Cooling/images/EIT_Elevels.PNG)
+![Energy Level Diagram](./images/EIT_Elevels.PNG)
 
 This four level system altogether form two Λ-scheme's, each producing Fano-like profiles in the atomic absorbtion spectrum.
 
