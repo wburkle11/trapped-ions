@@ -43,7 +43,15 @@ The black, dashed line above indicated the position of the CARRIER transistion, 
 
 EIT cooling will take place after some period of Doppler cooling. After Doppler cooling, the ions are left near or within the Lamb-Dicke regime, which is the regime in which the wavefunction spread of the ions is far less than the wavelength of the applied lasers. When in this regime, motional sideband transitions increase or descrease the vibrational quanta by exactly 1. Furthermore, after doppler cooling the ions have undergone a randomization of energy due to the nature of the photon emission and absorption, which results in the ions taking on a Maxwell-Boltzmann distribution (i.e. thermal distribution). For this reason, calculating the average phonon number of our ions can be done using the ratio method. 
 
+<p align="center">
+  <img src="./images/ratio.PNG" alt="Fano-Like Profile" width="300" height="100"/>
+</p>
 
+With this, we can calculate the expected minimum value of NBAR: 
+
+<p align="center">
+  <img src="./images/zoomed_fano.png" alt="Fano-Like Profile" width="800" height="350"/>
+</p>
 
 
 
