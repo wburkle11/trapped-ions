@@ -26,3 +26,5 @@ Now, we probe (or complete) one of these Λ-scheme's by choice of probe detuning
   <img src="./images/zoomed_fano.png" alt="Fano-Like Profile" width="800" height="350"/>
 </p>
 
+The black, dashed line above indicated the position of the CARRIER transistion, which due to the quantum interference of the applied probe/driving beams, is exactly 0. The CARRIER transition falls exactly at the detuning we used to create our two-photon resonance condition (i.e Λ-scheme). Red and Blue lines indicate positions of motional sidebands given a trap secular frequency. The Green line, indicates the position of the absorbtion peak which in other words, is the position of the light shift from the applied dressing beam. 
+
