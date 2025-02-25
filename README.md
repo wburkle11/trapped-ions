@@ -11,3 +11,4 @@ Code for numerical calculations and simulations for trapped ion experiments: [Ri
 * Q Chemistry
 * Helical Resonator Design
 * Laser Cooling
+* Ion Crystals
