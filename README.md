@@ -12,3 +12,4 @@ Code for numerical calculations and simulations for trapped ion experiments: [Ri
 * Helical Resonator Design
 * Laser Cooling
 * Ion Crystals
+* ARTIQ
