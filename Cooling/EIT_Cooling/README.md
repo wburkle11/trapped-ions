@@ -25,7 +25,7 @@ This four level system altogether form two Λ-scheme's, each producing Fano-like
 To create the above absorption spectrum with this code, you need to define some input parameters:
 
 <p align="center">
-  <img src="./images/input_param.PNG" alt="Fano-Like Profile" width="600" height="300"/>
+  <img src="./images/input_param.PNG" alt="Fano-Like Profile" width="750" height="300"/>
 </p>
 
 The boxes highlighted in red are the parameters that will need to change based on your experimental apparatus!  
