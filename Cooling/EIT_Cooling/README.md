@@ -81,4 +81,9 @@ The power of the driving beam has the more substantial effect on the light shift
 
 ## References
 
+This code was based off of the following references, for which none of this would have been possible: 
 
++ [Effecient ground-state cooling of large trapped-ion chains with an EIT tripod scheme](https://arxiv.org/abs/2004.05190), L. Feng, C. Monroe
++ [Double-EIT ground-state cooling of stationary two-dimensional ion lattices](https://arxiv.org/abs/2003.10276), Mu Qiao, Kihwan Kim
++ [EIT ground-state cooling of long ion strings](https://arxiv.org/abs/1603.05568), R. Lechner, C. F. Roos
++ [Trapped Ion Cooling, Heating, and Thermometry](https://iontrap.physics.indiana.edu/papers/Rasmusson-Thesis.pdf), A.J. Rasmusson 
