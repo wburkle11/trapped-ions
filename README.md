@@ -4,12 +4,5 @@
 
 Code for numerical calculations and simulations for trapped ion experiments: [RichermeLab](https://iontrap.physics.indiana.edu/).
 
------
 
-**Directories:** 
-
-* Q Chemistry
-* Helical Resonator Design
-* Laser Cooling
-* Ion Crystals
 
